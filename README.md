@@ -1,5 +1,10 @@
 ## Hi there 👋
 GNAYOAH
+
+## Language
+![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
+![la](https://img.shields.io/badge/any_text-you_like-blue)
+
 <!--
 **DropWave/DropWave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
