@@ -10,8 +10,6 @@ GNAYOAH
 ![HTML](https://img.shields.io/badge/-html-3776ab?style=for-the-badge&logo=HTML5&logoColor=%23fff)
 ![JS](https://img.shields.io/badge/-JavaScript-3776ab?style=for-the-badge&logo=javascript&logoColor=%23fff)
 
-## Get in Touch
-
 <!--
 **DropWave/DropWave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
