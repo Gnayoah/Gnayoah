@@ -2,8 +2,10 @@
 GNAYOAH
 
 ## Language
-![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
-![la](https://img.shields.io/badge/any_text-you_like-blue)
+![Flutter](https://img.shields.io/badge/-Flutter-3776ab?style=for-the-badge&logo=flutter)
+![Python](https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&logo=python&logoColor=fff)
+![C#](https://img.shields.io/badge/-C_SHARP-3776ab?style=for-the-badge&logo=c%23)
+
 
 <!--
 **DropWave/DropWave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
