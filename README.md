@@ -3,8 +3,10 @@ GNAYOAH
 
 ## Language
 ![Flutter](https://img.shields.io/badge/-Flutter-3776ab?style=for-the-badge&logo=flutter)
+![dart](https://img.shields.io/badge/-DART-3776ab?style=for-the-badge&logo=dart&logoColor=%23fff)
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&logo=python&logoColor=fff)
 ![C#](https://img.shields.io/badge/-C_SHARP-3776ab?style=for-the-badge&logo=c%23)
+![JS](https://img.shields.io/badge/-JavaScript-3776ab?style=for-the-badge&logo=javascript&logoColor=%23fff)
 
 
 <!--
