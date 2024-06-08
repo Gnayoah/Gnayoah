@@ -1,3 +1,5 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Gnayoah&custom_title=Sakana~&show_icons=true&hide_border=true&icon_color=#23DDF3&title_color=000&include_all_commits_disable=false&custom_title=Sakana~&count_private=true">
+
 # Gnayoah
 ## Languages
 ![Flutter](https://img.shields.io/badge/-Flutter-3776ab?style=for-the-badge&logo=flutter)
