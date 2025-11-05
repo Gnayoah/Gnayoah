@@ -98,8 +98,10 @@
 </table>
 
 
-
 ## Support me
+  <a href='https://github.com/Gnayoah/Gnayoah/blob/main/supportme.md' target='_blank'>
+    <img height='42' src='https://github.com/user-attachments/assets/cd724adb-541b-4b26-8b08-8b2a666ef8d3' alt='Buy Me a Coffee'/>
+  </a>
 
 
 <!--
