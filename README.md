@@ -76,6 +76,15 @@
 <tr><td>
 <img src="https://img.shields.io/badge/xiaomi_11-%23FF964D?style=for-the-badge&logo=xiaomi&logoColor=white&labelColor=%23FF6900">
 <img src="https://img.shields.io/badge/MacBook_Air_M3-%234D4D4D?style=for-the-badge&logo=apple&logoColor=white&labelColor=%23000000">
+<img src="https://img.shields.io/badge/ipad_pro_m2-%234D4D4D?style=for-the-badge&logo=apple&logoColor=white&labelColor=%23000000">
+<img src="https://img.shields.io/badge/iphone_13_pro-%234D4D4D?style=for-the-badge&logo=apple&logoColor=white&labelColor=%23000000">
+<img src="https://img.shields.io/badge/iphone_15_pro_max-%234D4D4D?style=for-the-badge&logo=apple&logoColor=white&labelColor=%23000000">
+<img src="https://img.shields.io/badge/ROG_Zephyrus_M16_GU603HM%20-%23FF4D69?style=for-the-badge&logo=republicofgamers&logoColor=white&labelColor=%23FF0029">
+<img src="https://img.shields.io/badge/ROG_Strix_B850--A_Gaming_Wifi%20-%23FF4D69?style=for-the-badge&logo=republicofgamers&logoColor=white&labelColor=%23FF0029">
+<img src="https://img.shields.io/badge/AMD_Ryzen_9_9900X_12--Core_Processor%20-%23F26066?style=for-the-badge&logo=amd&logoColor=white&labelColor=%23ED1C24">
+<img src="https://img.shields.io/badge/Samsung_ssd_990_evo_plus_4tb-%235B69BD?style=for-the-badge&logo=samsung&logoColor=white&labelColor=%231428A0">
+<img src="https://img.shields.io/badge/Samsung_ssd_9100_pro_2tb-%235B69BD?style=for-the-badge&logo=samsung&logoColor=white&labelColor=%231428A0">
+  
 </td></tr>
 </table>
 
