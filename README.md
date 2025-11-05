@@ -31,6 +31,9 @@
 <img src="https://img.shields.io/badge/php-%23A0A3CB?style=for-the-badge&logo=php&logoColor=white&labelColor=%23777BB4">
 <img src="https://img.shields.io/badge/swift-%23F58574?style=for-the-badge&logo=swift&logoColor=white&labelColor=%23F05138">
 <img src="https://img.shields.io/badge/javascript-%23F9E962?style=for-the-badge&logo=javascript&logoColor=white&labelColor=%23F7DF1E">
+<img src="https://img.shields.io/badge/c%23-%23C2CEDB?style=for-the-badge&logo=c&logoColor=white&labelColor=%23A8B9CC">
+
+
 </td></tr>
 </table>
 
