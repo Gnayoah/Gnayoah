@@ -38,7 +38,9 @@
 ![Static Badge](https://img.shields.io/badge/centos_stream_9-%236766A0?style=for-the-badge&logo=centos&logoColor=white&labelColor=%23262577&link=https%3A%2F%2Fwww.centos.org%2Fstream9%2F)
 ![Static Badge](https://img.shields.io/badge/android_15-%2377E7A9?style=for-the-badge&logo=android&logoColor=white&labelColor=%233DDC84&link=https%3A%2F%2Fwww.android.com)
 
-### Device
+### Devices:
+![Static Badge](https://img.shields.io/badge/xiaomi_11-%23FF964D?style=for-the-badge&logo=xiaomi&logoColor=white&labelColor=%23FF6900&link=https%3A%2F%2Fwww.mi.com%2Findex.html)
+![Static Badge](https://img.shields.io/badge/MacBook_Air_M3-%234D4D4D?style=for-the-badge&logo=apple&logoColor=white&labelColor=%23000000&link=https%3A%2F%2Fwww.apple.com.cn%2Fos%2Fmacos%2F)
 
 
 ### Zero Star (Would not recommand):
