@@ -1,5 +1,5 @@
 ## About me
-**University students and studying STS(Science, Technology, and Society).**
+**University students.**
 
 <table>
   <tr>
