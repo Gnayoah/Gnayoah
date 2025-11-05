@@ -19,9 +19,8 @@
 ## Currently working on
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description |
 |:---:|:------------|
-| <img src="https://github.com/user-attachments/assets/74a15f9e-11b3-43e2-a7e0-e1a5774634b7" alt="logo" width="150"> | **UOTAN WEARBOX**<br>**A cross-platform toolbox for Android & WearOS wearable devices**<br>Instant Empowerment, Infinite Possibilities. Born for limitless exploration—meet the “Uotan WearBox”. Turn every wearable device into pure potential. Install apps freely and unlock endless ways to play. Your device will never be the same again.<br>[GitHub](https://github.com/Gnayoah/UOTAN-WearBox) · [Website](https://wearbox.uotan.cn) |
-
-
+| <img src="https://github.com/user-attachments/assets/74a15f9e-11b3-43e2-a7e0-e1a5774634b7" alt="logo" width="150"> | **UOTAN WEARBOX**<br>**A cross-platform toolbox for Android & WearOS wearable devices**<br>Instant Empowerment, Infinite Possibilities. Born for limitless exploration—meet the “Uotan WearBox”. Turn every wearable device into pure potential. Install apps freely and unlock endless ways to play. Your device will never be the same again.<br>[GitHub](https://github.com/Gnayoah/UOTAN-WearBox) · [Website](https://wearbox.uotan.cn)  | 
+| <img src="https://github.com/user-attachments/assets/74a15f9e-11b3-43e2-a7e0-e1a5774634b7" alt="logo" width="150"> | **Flix**<br>**Transfer files like chatting.**<br>Transfer files like chatting<br>[GitHub](https://github.com/flix-pro) · [Website](https://flix.center/)  | 
 
 
 ## Languages and Frameworks
