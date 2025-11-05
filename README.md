@@ -19,6 +19,7 @@
 ## Currently working on
 
 ## Languages and Frameworks
+**I generally prioritize cross-platform development, as it enables substantial time savings, enhances development efficiency, and ensures a consistent user experience—factors that are particularly critical for independent developers. Nevertheless, I retain a strong preference for native development, given that certain native UI capabilities—remain unattainable through cross-platform frameworks, and native applications consistently deliver the best performance.**
 <table cellspacing="0" cellpadding="8">
 <tr><th>Preferred</th></tr>
 <tr><td>
@@ -33,7 +34,6 @@
 </td></tr>
 </table>
 
-<br>
 
 <table cellspacing="0" cellpadding="8">
 <tr><th>Secondary</th></tr>
@@ -43,8 +43,6 @@
 <img src="https://img.shields.io/badge/kotlin-%23A585FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=%237F52FF">
 </td></tr>
 </table>
-
-<br>
 
 <table cellspacing="0" cellpadding="8">
 <tr><th>Tools</th></tr>
@@ -56,7 +54,6 @@
 </td></tr>
 </table>
 
-<br>
 
 <table cellspacing="0" cellpadding="8">
 <tr><th>Environment</th></tr>
@@ -70,7 +67,6 @@
 </td></tr>
 </table>
 
-<br>
 
 <table cellspacing="0" cellpadding="8">
 <tr><th>Devices</th></tr>
@@ -80,7 +76,6 @@
 </td></tr>
 </table>
 
-<br>
 
 <table cellspacing="0" cellpadding="8">
 <tr><th>Zero Star (Would not recommand)</th></tr>
