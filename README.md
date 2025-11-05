@@ -1,4 +1,5 @@
 ## About me
+Student.
 ## Currently working on
 
 ## Languages and Frameworks
@@ -9,9 +10,8 @@
 ![Static Badge](https://img.shields.io/badge/electron-%237EA9B1?style=for-the-badge&logo=electron&logoColor=white&labelColor=%2347848F&link=https%3A%2F%2Fwww.electronjs.org%2F)
 ![Static Badge](https://img.shields.io/badge/Python-%23739FC4?style=for-the-badge&logo=python&logoColor=white&labelColor=%233776AB&link=https%3A%2F%2Fgithub.com%2FGnayoah)
 ![Static Badge](https://img.shields.io/badge/php-%23A0A3CB?style=for-the-badge&logo=php&logoColor=white&labelColor=%23777BB4&link=https%3A%2F%2Fwww.php.net%2F)
-![Static Badge](https://img.shields.io/badge/javascript-%23F9E962?style=for-the-badge&logo=javascript&logoColor=white&labelColor=%23F7DF1E)
 ![Static Badge](https://img.shields.io/badge/swift-%23F58574?style=for-the-badge&logo=swift&logoColor=white&labelColor=%23F05138&link=https%3A%2F%2Fwww.swift.org%2F)
-
+![Static Badge](https://img.shields.io/badge/javascript-%23F9E962?style=for-the-badge&logo=javascript&logoColor=white&labelColor=%23F7DF1E)
 
 
 
