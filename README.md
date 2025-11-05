@@ -18,7 +18,9 @@
 ![Static Badge](https://img.shields.io/badge/Macos_Tahoe-%234D4D4D?style=for-the-badge&logo=apple&logoColor=white&labelColor=%23000000&link=https%3A%2F%2Fwww.apple.com.cn%2Fos%2Fmacos%2F)
 
 
-### Zero Star(Would not recommand)
+### Zero Star(Would not recommand):
+![Static Badge](https://img.shields.io/badge/gradle-%234E6E75?style=for-the-badge&logo=gradle&logoColor=white&labelColor=%2302303A&link=https%3A%2F%2Fgradle.org%2F)
+
 
 
 <table>
