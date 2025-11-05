@@ -19,7 +19,7 @@
 ## Currently working on
 
 ## Languages and Frameworks
-**I generally prioritize cross-platform development, as it enables substantial time savings, and ensures a consistent user experience. Nevertheless, I retain a strong preference for native development, given that certain native UI capabilities—remain unattainable through cross-platform frameworks, and native applications consistently deliver the best performance.**
+**I prioritize cross-platform development for its efficiency and consistency, yet I still favor native solutions because certain platform-specific UI capabilities remain unattainable and native performance is unmatched.**
 <table cellspacing="0" cellpadding="8">
 <tr><th>Preferred</th></tr>
 <tr><td>
