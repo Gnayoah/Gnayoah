@@ -44,6 +44,7 @@
 <img src="https://img.shields.io/badge/Dotnet-%23856BE1?style=for-the-badge&logo=.net&logoColor=white&labelColor=%23512BD4">
 <img src="https://img.shields.io/badge/qt-%237ADC86?style=for-the-badge&logo=qt&logoColor=white&labelColor=%2341CD52">
 <img src="https://img.shields.io/badge/kotlin-%23A585FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=%237F52FF">
+<img src="https://img.shields.io/badge/rust-%234D4D4D?style=for-the-badge&logo=rust&logoColor=white&labelColor=%23000000">
 </td></tr>
 </table>
 
@@ -54,6 +55,7 @@
 <img src="https://img.shields.io/badge/git-%23A6CAFF?style=for-the-badge&logo=gitforwindows&logoColor=white&labelColor=%2380B3FF">
 <img src="https://img.shields.io/badge/uv-%23E88FF0?style=for-the-badge&logo=uv&logoColor=white&labelColor=%23DE5FE9">
 <img src="https://img.shields.io/badge/Codex-%237A69B2?style=for-the-badge&logo=openai&logoColor=white&labelColor=%23412991">
+<img src="https://img.shields.io/badge/claude-%23E49F89?style=for-the-badge&logo=claude&logoColor=white&labelColor=%23D97757">
 </td></tr>
 </table>
 
@@ -82,11 +84,14 @@
 <img src="https://img.shields.io/badge/ROG_Zephyrus_M16_GU603HM%20-%23FF4D69?style=for-the-badge&logo=republicofgamers&logoColor=white&labelColor=%23FF0029">
 <img src="https://img.shields.io/badge/ROG_Strix_B850--A_Gaming_Wifi%20-%23FF4D69?style=for-the-badge&logo=republicofgamers&logoColor=white&labelColor=%23FF0029">
 <img src="https://img.shields.io/badge/AMD_Ryzen_9_9900X_12--Core_Processor%20-%23F26066?style=for-the-badge&logo=amd&logoColor=white&labelColor=%23ED1C24">
+<img src="https://img.shields.io/badge/nvidia_Geforce_rtx_5070_ti-%239FCE4C?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=%2376B900">
 <img src="https://img.shields.io/badge/Samsung_ssd_990_evo_plus_4tb-%235B69BD?style=for-the-badge&logo=samsung&logoColor=white&labelColor=%231428A0">
-<img src="https://img.shields.io/badge/Samsung_ssd_9100_pro_2tb-%235B69BD?style=for-the-badge&logo=samsung&logoColor=white&labelColor=%231428A0">
+<img src="https://img.shields.io/badge/Samsung_ssd_990_evo_plus_4tb-%235B69BD?style=for-the-badge&logo=samsung&logoColor=white&labelColor=%231428A0">
+
   
 </td></tr>
 </table>
+
 
 
 <table cellspacing="0" cellpadding="8">
