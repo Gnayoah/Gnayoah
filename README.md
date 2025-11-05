@@ -52,7 +52,9 @@
 ![Static Badge](https://img.shields.io/badge/rocky_linux_9-%2358CEA7?style=for-the-badge&logo=rockylinux&logoColor=white&labelColor=%2310B981&link=https%3A%2F%2Frockylinux.org)
 ![Static Badge](https://img.shields.io/badge/alibaba_cloud_linux_3-%23FF974D?style=for-the-badge&logo=alibabacloud&logoColor=white&labelColor=%23FF6A00&link=https%3A%2F%2Fcn.aliyun.com%2Fproduct%2Falinux%3Ffrom_alibabacloud%3D)
 ![Static Badge](https://img.shields.io/badge/centos_stream_9-%236766A0?style=for-the-badge&logo=centos&logoColor=white&labelColor=%23262577&link=https%3A%2F%2Fwww.centos.org%2Fstream9%2F)
-![Static Badge](https://img.shields.io/badge/android_15-%2377E7A9?style=for-the-badge&logo=android&logoColor=white&labelColor=%233DDC84&link=https%3A%2F%2Fwww.android.com)
+![Static Badge](https://img.shields.io/badge/android_13_(WSA)-%2377E7A9?style=for-the-badge&logo=android&logoColor=white&labelColor=%233DDC84&link=https%3A%2F%2Fwww.android.com)
+![Static Badge](https://img.shields.io/badge/ubuntu_24.04.1_LTS_(WSL)-%23F08763?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=%23E95420)
+
 
 ### Devices:
 ![Static Badge](https://img.shields.io/badge/xiaomi_11-%23FF964D?style=for-the-badge&logo=xiaomi&logoColor=white&labelColor=%23FF6900&link=https%3A%2F%2Fwww.mi.com%2Findex.html)
