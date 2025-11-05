@@ -1,5 +1,5 @@
 ## About me
-**University students.**
+**University student.**
 
 <table>
   <tr>
