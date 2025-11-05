@@ -1,5 +1,21 @@
 ## About me
-Student.
+**University students and studying STS(Science, Technology, and Society).**
+
+<table>
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gnayoah&layout=compact&hide_border=true"
+        height="200" style="height:200px;">
+    </td>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=Gnayoah&count_private=true&show_icons=true&icon_color=0078e7&title_color=0078e7&hide_border=true"
+        height="200" style="height:200px;">
+    </td>
+  </tr>
+</table>
+
 ## Currently working on
 
 ## Languages and Frameworks
@@ -50,20 +66,6 @@ Student.
 
 
 
-<table>
-  <tr>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gnayoah&layout=compact&hide_border=true"
-        height="200" style="height:200px;">
-    </td>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=Gnayoah&count_private=true&show_icons=true&icon_color=0078e7&title_color=0078e7&hide_border=true"
-        height="200" style="height:200px;">
-    </td>
-  </tr>
-</table>
 
 ## Support me
 
