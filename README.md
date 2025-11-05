@@ -17,6 +17,12 @@
 </table>
 
 ## Currently working on
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Description |
+|:---:|:------------|
+| <img src="https://github.com/user-attachments/assets/74a15f9e-11b3-43e2-a7e0-e1a5774634b7" alt="logo" width="150"> | **UOTAN WEARBOX**<br>**A cross-platform toolbox for Android & WearOS wearable devices**<br>Instant Empowerment, Infinite Possibilities. Born for limitless exploration—meet the “Uotan WearBox”. Turn every wearable device into pure potential. Install apps freely and unlock endless ways to play. Your device will never be the same again.<br>[GitHub](https://github.com/Gnayoah/UOTAN-WearBox) · [Website](https://wearbox.uotan.cn) |
+
+
+
 
 ## Languages and Frameworks
 **I prioritize cross-platform development for its efficiency and consistency, yet I still favor native solutions because certain platform-specific UI capabilities remain unattainable and native performance is unmatched.**
@@ -56,6 +62,9 @@
 <img src="https://img.shields.io/badge/uv-%23E88FF0?style=for-the-badge&logo=uv&logoColor=white&labelColor=%23DE5FE9">
 <img src="https://img.shields.io/badge/Codex-%237A69B2?style=for-the-badge&logo=openai&logoColor=white&labelColor=%23412991">
 <img src="https://img.shields.io/badge/claude-%23E49F89?style=for-the-badge&logo=claude&logoColor=white&labelColor=%23D97757">
+<img src="https://img.shields.io/badge/node.js-%238FBC83?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=%235FA04E">
+ 
+
 </td></tr>
 </table>
 
@@ -67,6 +76,7 @@
 <img src="https://img.shields.io/badge/rocky_linux_9-%2358CEA7?style=for-the-badge&logo=rockylinux&logoColor=white&labelColor=%2310B981">
 <img src="https://img.shields.io/badge/alibaba_cloud_linux_3-%23FF974D?style=for-the-badge&logo=alibabacloud&logoColor=white&labelColor=%23FF6A00">
 <img src="https://img.shields.io/badge/centos_stream_9-%236766A0?style=for-the-badge&logo=centos&logoColor=white&labelColor=%23262577">
+  <img src="https://img.shields.io/badge/centos_stream_8-%236766A0?style=for-the-badge&logo=centos&logoColor=white&labelColor=%23262577">
 <img src="https://img.shields.io/badge/android_13_(WSA)-%2377E7A9?style=for-the-badge&logo=android&logoColor=white&labelColor=%233DDC84">
 <img src="https://img.shields.io/badge/ubuntu_24.04.1_LTS_(WSL)-%23F08763?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=%23E95420">
 </td></tr>
