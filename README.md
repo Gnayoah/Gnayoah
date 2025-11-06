@@ -63,7 +63,8 @@
 <img src="https://img.shields.io/badge/Codex-%237A69B2?style=for-the-badge&logo=openai&logoColor=white&labelColor=%23412991">
 <img src="https://img.shields.io/badge/claude-%23E49F89?style=for-the-badge&logo=claude&logoColor=white&labelColor=%23D97757">
 <img src="https://img.shields.io/badge/node.js-%238FBC83?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=%235FA04E">
- 
+<img src="https://img.shields.io/badge/phpmyadmin-%2398A0C7?style=for-the-badge&logo=phpmyadmin&logoColor=white&labelColor=%236C78AF">
+<img src="https://img.shields.io/badge/mysql-%234D7689?style=for-the-badge&logo=mysql&logoColor=white&labelColor=%23003B57">
 
 </td></tr>
 </table>
