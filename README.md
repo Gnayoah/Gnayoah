@@ -82,7 +82,7 @@
 </td></tr>
 </table>
 
-
+<!--
 <table cellspacing="0" cellpadding="8">
 <tr><th>Devices</th></tr>
 <tr><td>
@@ -101,7 +101,7 @@
   
 </td></tr>
 </table>
-
+-->
 
 
 <table cellspacing="0" cellpadding="8">
