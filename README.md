@@ -76,7 +76,6 @@
 <img src="https://img.shields.io/badge/rocky_linux_9-%2358CEA7?style=for-the-badge&logo=rockylinux&logoColor=white&labelColor=%2310B981">
 <img src="https://img.shields.io/badge/alibaba_cloud_linux_3-%23FF974D?style=for-the-badge&logo=alibabacloud&logoColor=white&labelColor=%23FF6A00">
 <img src="https://img.shields.io/badge/centos_stream_9-%236766A0?style=for-the-badge&logo=centos&logoColor=white&labelColor=%23262577">
-  <img src="https://img.shields.io/badge/centos_stream_8-%236766A0?style=for-the-badge&logo=centos&logoColor=white&labelColor=%23262577">
 <img src="https://img.shields.io/badge/android_15-%2377E7A9?style=for-the-badge&logo=android&logoColor=white&labelColor=%233DDC84">
 <img src="https://img.shields.io/badge/ubuntu_24.04.1_LTS_(WSL)-%23F08763?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=%23E95420">
 </td></tr>
