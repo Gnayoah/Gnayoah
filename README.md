@@ -16,6 +16,7 @@
   </tr>
 </table>
 
+
 ## Currently working on
 |  | Description |
 |:---:|:------------|
@@ -23,7 +24,7 @@
 | <img src="https://github.com/user-attachments/assets/4c089954-e338-4683-8e4a-372f77c19024" alt="logo" width="100"> | **Flix**<br>**Transfer files like chatting.**<br>A next-generation local network transfer tool — no data usage, no speed limits, and fully compatible across all systems.<br>[GitHub](https://github.com/flix-pro) · [Website](https://flix.center/)  | 
 
 
-
+<!--
 ## Languages and Frameworks
 **I prioritize cross-platform development for its efficiency and consistency, yet I still favor native solutions because certain platform-specific UI capabilities remain unattainable and native performance is unmatched.**
 <table cellspacing="0" cellpadding="8">
@@ -103,7 +104,7 @@
 </table>
 -->
 
-
+<!--
 <table cellspacing="0" cellpadding="8">
 <tr><th>Zero Star (Would not recommand)</th></tr>
 <tr><td>
@@ -111,7 +112,7 @@
 <img src="https://img.shields.io/badge/c%2B%2B-%234D8BBA?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=%2300599C">
 </td></tr>
 </table>
-
+-->
 
 ## Support me
   <a href='https://github.com/Gnayoah/Gnayoah/blob/main/supportme.md' target='_blank'>
