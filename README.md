@@ -22,7 +22,7 @@
 |:---:|:------------|
 | <img src="https://github.com/user-attachments/assets/74a15f9e-11b3-43e2-a7e0-e1a5774634b7" alt="logo" width="500"> | **UOTAN WEARBOX**<br>**A cross-platform toolbox for Android & WearOS wearable devices**<br>Instant Empowerment, Infinite Possibilities. Born for limitless exploration—meet the “Uotan WearBox”. Turn every wearable device into pure potential. Install apps freely and unlock endless ways to play. Your device will never be the same again.<br>[GitHub](https://github.com/Gnayoah/UOTAN-WearBox) · [Website](https://wearbox.uotan.cn)  | 
 | <img src="https://github.com/user-attachments/assets/4c089954-e338-4683-8e4a-372f77c19024" alt="logo" width="100"> | **Flix**<br>**Transfer files like chatting**<br>A next-generation local network transfer tool — no data usage, no speed limits, and fully compatible across all systems.<br>[GitHub](https://github.com/flix-pro) · [Website](https://flix.center/)  | 
-| | **Login.center**<br>**Powerful Account System**<br>A powerful user management system that supports OAuth 2.0 registration and login, QR code login, a membership and paid subscription system, multiple payment methods, and APIs for rapid client-side integration.<br>[GitHub]([https://github.com/flix-pro](https://github.com/Gnayoah/Login-Center)) · [Website](https://login.center/)  | 
+| | **Login.center**<br>**Powerful Account System**<br>A powerful user management system that supports OAuth 2.0 registration and login, QR code login, a membership and paid subscription system, multiple payment methods, and APIs for rapid client-side integration.<br>[GitHub](https://github.com/Gnayoah/Login-Center) · [Website](https://login.center/)  | 
 
 <!--
 ## Languages and Frameworks
